@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">miniIMDB</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="introduction">Introduction</string>
+    <string name="name">Name</string>
+    <string name="year">Year</string>
+    <string name="movie">Movie :</string>
+    <string name="tv">TV :</string>
+    <string name="search">Search</string>
+    <string name="no_network_find">Please connect to network.</string>
+
+    <string name="release_date">Release date :</string>
+    <string name="director">Director :</string>
+    <string name="description">Description:</string>
+
+    <string name="no_results">No Results Found</string>
+    <string name="list_description">Select movie from list to view more information</string>
+
+    <string name="no_input_find">No name input detected. Please input Movie Name or TV name.</string>
+    <string name="only_one_input">Only Movie Name or TV name.</string>
+    <string name="no_poster_find">No Poster Available.</string>
+</resources>

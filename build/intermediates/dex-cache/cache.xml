@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/YunhongXu1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/YunhongXu1/Documents/miniIMDB/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-51f7f3990171478fdd857942d8e9c5e86a5f12a1.jar" />
+    </item>
+    <item
+        jar="/Users/YunhongXu1/Documents/miniIMDB/app/libs/httpcore-4.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e813b8722c387b22e1adccf7914729db09bcb4a9">
+        <dex dex="/Users/YunhongXu1/Documents/miniIMDB/app/build/intermediates/pre-dexed/release/httpcore-4.0.1-259cc7cacb430a231151477a13287fe08ecd3d16.jar" />
+    </item>
+    <item
+        jar="/Users/YunhongXu1/Documents/miniIMDB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/YunhongXu1/Documents/miniIMDB/app/build/intermediates/pre-dexed/release/classes-aaf2b9d6b12b8318f9acdc3f4949d09225997556.jar" />
+    </item>
+    <item
+        jar="/Users/YunhongXu1/Documents/miniIMDB/app/libs/httpclient-4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a76d7fd8033d48b4c67b4ccf159abb080c1059b6">
+        <dex dex="/Users/YunhongXu1/Documents/miniIMDB/app/build/intermediates/pre-dexed/release/httpclient-4.0-71359b37cc7845eb0aaec1c582012358be217244.jar" />
+    </item>
+    <item
+        jar="/Users/YunhongXu1/Documents/miniIMDB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/YunhongXu1/Documents/miniIMDB/app/build/intermediates/pre-dexed/release/classes-98a6845e1efb821cbf1d190669d80602d76ab175.jar" />
+    </item>
+    <item
+        jar="/Users/YunhongXu1/Documents/miniIMDB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/YunhongXu1/Documents/miniIMDB/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-cab1d3ac4f41b01fa4c910ef69d8f1f9016c4c38.jar" />
+    </item>
+
+</items>
